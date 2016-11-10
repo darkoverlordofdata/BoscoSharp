@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/BackdropBlackLittleSparkBlack.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/bullet.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/enemy1.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/enemy2.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/enemy3.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/explosion.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/fighter.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/particle.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/star.png</File>
+    <File>/home/bruce/Git/ShmupWarz/ShmupWarz/Content/images/tom-thumb-white.png</File>
+  </SourceFiles>
+</SourceFileCollection>

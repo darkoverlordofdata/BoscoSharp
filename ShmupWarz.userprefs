@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{21714CC1-59CE-43EF-8763-3ABACD5BB657}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShmupWarz/Game/ShmupWarz.cs">
+    <Files>
+      <File FileName="ShmupWarz/Game/ShmupWarz.cs" Line="7" Column="20" />
+      <File FileName="ShmupWarz/BoscoSharp/Bosco.cs" Line="21" Column="6" />
+      <File FileName="ShmupWarz/Game1.cs" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShmupWarz PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
